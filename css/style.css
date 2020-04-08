@@ -1,0 +1,205 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: #f5f7fa;
+    font-family: montserrat;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.wraper {
+    background: #ffffff;
+    display: flex;
+    max-width: 1282px;
+    margin: 0 auto;
+    box-shadow: 5px 9px 20px rgba(0, 0, 0, 0.15);
+}
+
+.sidebar {
+    background: #1e2939;
+    width: 370px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    
+}
+
+.my-photo {
+    width: 370px;
+}
+
+.about-me-container {
+    padding-left: 90px;
+    padding-right: 90px;
+    padding-top: 110px;
+    padding-bottom: 100px;
+}
+.about-me-main {
+    width: 413px;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    color: #6f6f6f;
+}
+
+.my-speciality {
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 24px;
+}
+
+.my-name {
+    font-size: 45px;
+    font-weight: 700;
+    line-height: 1.2;
+    margin: 24px 0;
+}
+
+.projects-container {
+    margin-top: 60px;
+}
+
+.projects-item {
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 24px;
+    margin-left: 18px;
+}
+
+.projects-item-text {
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    color: #6f6f6f;
+}
+
+.work-expirience-container {
+    margin-top: 50px;
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 24px;
+}
+
+.company-container {
+    margin-top: 20px;
+}
+
+.position-name {
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 24px;
+}
+
+.employer {
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 24px;
+    color: #ff6b08;
+}
+
+.work-period {
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 24px;
+    color: #bfbfbf;
+}
+
+.period-devider {
+    width: 4px;
+    height: 17px;
+    color: #000000;
+} 
+
+.list-of-responsibilities {
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    color: #6f6f6f;
+}
+
+.education-container {
+    margin-top: 55px;
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 24px;
+}
+
+.university-name {
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 24px;
+    color: #ff6b08;
+}
+
+.speciality {
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 24px;
+}
+
+.studying-period {
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 24px;
+    color: #bfbfbf;    
+}
+
+.contacts-container {
+    margin-top: 60px;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+.contacts-title {
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 24px;
+    color: white;
+    margin-bottom: 20px;
+}
+
+.contacts-link {
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    color: #4b5460;
+}
+
+.type-of-contact {
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 24px;
+    color: white;
+    margin-right: 10px;
+}
+
+.skills-title {
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 24px;
+    color: white;
+    margin-bottom: 20px;
+}
+.skills-container {
+    margin-top: 55px;
+    margin-left: 40px;
+    margin-right: 40px;
+
+}
+
+.skills-item {
+    margin-left: 15px;
+    color: #ff6b08;
+}
+    
+.skills-item-text {
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    color: #a5a9b0;
+}
